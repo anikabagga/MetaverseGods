@@ -1,6 +1,6 @@
 # 📝 Connect.xyz Technical Deliverable 
 
-1) Spotify Data Scrapping 
+1) Spotify Data Scrapping <br>
 We used the Spotify API to find the top fans for an artist. 
 
 2) Fan NFT Minter. 
